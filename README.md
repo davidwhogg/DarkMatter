@@ -9,5 +9,7 @@ author
 
 license
 -------
+*WARNING: This repo contains documents that aren't even half-written.*
+
 Copyright 2013 David W. Hogg.  **All rights reserved**.
 
