@@ -1,4 +1,4 @@
-all: toledo_2013-04-04.pdf
+all: nyuad_2013-10-24.pdf
 
 %.pdf: %.tex hogg_presentation.tex
 	pdflatex $<
